@@ -21,7 +21,7 @@ Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiad
 </div>
 
 ---
-### 🚀 Meus Projetos em Destaque
+### Meus Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/alvarogabandim/jogo-da-cobrinha-javascript">
