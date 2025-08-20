@@ -19,6 +19,18 @@ Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiad
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </div>
+
+---
+### 🚀 Meus Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/alvarogabandim/jogo-da-cobrinha-javascript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=jogo-da-cobrinha-javascript&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/alvarogabandim/buscador-perfis-github">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=buscador-perfis-github&theme=radical&show_owner=true" />
+  </a>
+</div>
 <!--
 **alvarogabandim/alvarogabandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
