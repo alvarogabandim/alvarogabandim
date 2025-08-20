@@ -8,8 +8,17 @@ Olá! Meu nome é Álvaro e atuo como Desenvolvedor Front-End, apaixonado por tr
 
 Minha jornada começou no ensino de programação e na criação de sites, e hoje dedico minha carreira à especialização em aplicações web modernas com foco total no ecossistema Angular. Acredito que a lógica do código e a sensibilidade de um verso se unem para criar soluções que não apenas funcionam, mas que encantam.
 
-🚀 Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiadores e solidificar minha expertise como Desenvolvedor Angular.
+Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiadores e solidificar minha expertise como Desenvolvedor Angular.
+---
+### Tecnologias e Ferramentas
 
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</div>
 <!--
 **alvarogabandim/alvarogabandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
