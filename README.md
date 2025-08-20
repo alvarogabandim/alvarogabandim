@@ -1,6 +1,14 @@
 <div align="center">
   <img src="https://github.com/alvarogabandim/assets/blob/main/0e6d1197-0574-41db-8541-846009d6372b.png?raw=true" alt="Banner do Perfil de Álvaro"/>
 </div>
+  ---
+
+## Sobre Mim
+Olá! Meu nome é Álvaro e atuo como Desenvolvedor Front-End, apaixonado por transformar ideias em experiências digitais interativas.
+
+Minha jornada começou no ensino de programação e na criação de sites, e hoje dedico minha carreira à especialização em aplicações web modernas com foco total no ecossistema Angular. Acredito que a lógica do código e a sensibilidade de um verso se unem para criar soluções que não apenas funcionam, mas que encantam.
+
+🚀 Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiadores e solidificar minha expertise como Desenvolvedor Angular.
 
 <!--
 **alvarogabandim/alvarogabandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
