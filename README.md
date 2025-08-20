@@ -31,6 +31,14 @@ Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiad
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=buscador-perfis-github&theme=radical&show_owner=true" />
   </a>
 </div>
+
+---
+### Estatísticas e Contribuições
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarogabandim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogabandim&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <!--
 **alvarogabandim/alvarogabandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
