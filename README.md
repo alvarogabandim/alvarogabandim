@@ -23,7 +23,7 @@ Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiad
 
 <div align="center">
   <a href="https://github.com/alvarogabandim/pokedex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=pokedext&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=pokedex&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/alvarogabandim/buscador-perfis-github">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=buscador-perfis-github&theme=radical&show_owner=true" />
