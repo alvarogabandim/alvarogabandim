@@ -22,8 +22,8 @@ Estou pronto para integrar uma equipe dinâmica, contribuir em projetos desafiad
 ### Meus Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/alvarogabandim/jogo-da-cobrinha-javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=jogo-da-cobrinha-javascript&theme=radical&show_owner=true" />
+  <a href="https://github.com/alvarogabandim/pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=pokedext&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/alvarogabandim/buscador-perfis-github">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogabandim&repo=buscador-perfis-github&theme=radical&show_owner=true" />
