@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/alvarogabandim/assets/blob/main/0e6d1197-0574-41db-8541-846009d6372b.png?raw=true" alt="Banner do Perfil de Álvaro"/>
-</div>
+
   ---
 
 ## Sobre Mim
